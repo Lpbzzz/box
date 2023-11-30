@@ -13,6 +13,7 @@
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
     "@ant-design/pro-components": "^2.6.43",
+    "@micro-zoe/micro-app": "1.0.0-rc.2",
     "@umijs/max": "^4.0.88",
     "antd": "^5.11.5"
   },

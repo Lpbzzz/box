@@ -29,7 +29,11 @@ export default defineConfig({
       path: '/table',
       component: './Table',
     },
+    {
+      name: 'box',
+      path: '/box',
+      component: './box',
+    },
   ],
   npmClient: 'pnpm',
 });
-
